@@ -1,0 +1,16 @@
+{
+  "name": "快爪爱 - 双向奔赴的交友平台",
+  "short_name": "快爪爱",
+  "description": "基于双向智能匹配的交友平台，MBTI测试+AI匹配",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF2F8",
+  "theme_color": "#EC4899",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>❤️</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

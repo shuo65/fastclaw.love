@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.fastclaw.love/sitemap.xml
+
+Disallow: /temp/
+Disallow: /admin/
+Disallow: /api/
